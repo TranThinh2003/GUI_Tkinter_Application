@@ -10,7 +10,13 @@
 ## Screenshots
 ![image](https://github.com/TranThinh2003/GUI_Tkinter_Application/assets/148307463/5c2d74ad-14c3-4f48-b32e-d0b2f94c0526)
 
+## Built with 
+Python | Tkinter 
 
+## Getting started 
+1. Clone the project repo:
+    [(https://github.com/TranThinh2003/GUI_Tkinter_Application.git)]
+3. 
 
 
 
