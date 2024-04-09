@@ -15,7 +15,7 @@ Python | Tkinter
 
 ## Getting started 
 1. Clone the project repo:
-    [(git clone https://github.com/TranThinh2003/GUI_Tkinter_Application.git)]
+    [[(git clone https://github.com/TranThinh2003/GUI_Tkinter_Application.git)]](url)
 2. 
 
 
